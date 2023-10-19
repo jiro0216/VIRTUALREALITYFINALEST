@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="380021634_780304967186684_4248660043868478239_n" size="1.000000 0.616355" />
+    <ImageTarget name="BeepCard2" size="1.000000 1.333333" />
+    <ImageTarget name="380367884_1728766554255356_1798072613062212714_n" size="30.000000 40.000000" />
+    <ImageTarget name="BeepCard" size="30.000000 40.000000" />
+  </Tracking>
+</QCARConfig>
